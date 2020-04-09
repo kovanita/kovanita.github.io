@@ -1,0 +1,14 @@
+h1{
+  color: red;
+  font-size:30px;
+}
+h2,h3{
+  color: purple
+}
+.abc { color: #F10D99
+}
+.romaisz {list-style-type: upper-roman ;
+  
+}
+.negyedik{ text-decoration: underline
+}

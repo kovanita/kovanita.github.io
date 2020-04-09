@@ -1,0 +1,47 @@
+main{
+  display: ;
+  margin-left: 140px;
+  margin-right: 140px;
+}
+header{
+  font-family: 'Playfair Display', serif;
+  position: absolute;
+  bottom:320px;
+  left: 160px;
+  font-size: 23px;
+}
+paragraf{
+  font-family: 'Playfair Display', serif;
+  position: absolute;
+  bottom:260px;
+  left: 160px;
+  font-size: 50px;
+  padding: px;
+}
+h1{
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+  background-color: grey;
+  padding: 20px;
+  color: white;
+}
+h2{
+  font-family: 'Roboto Mono', monospace;
+  text-transform: uppercase;
+  font-size:25px;
+}
+h3{
+  font-family: 'Josefin Sans', sans-serif;
+}
+p,ul{
+  font-family: 'Comic Neue', cursive;
+  list-style-type: square;
+  font-size: 14px;
+}
+div p{
+  font-style: italic;
+  font-size: 16px;
+}
+.pers{
+  border-top:3px solid black;
+}

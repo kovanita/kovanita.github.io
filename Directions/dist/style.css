@@ -1,0 +1,31 @@
+main{
+  border: 5px solid #4285F4;
+  color: white
+}
+.elso {
+  background: #E67676;
+  padding:20px;
+  margin:0%;
+
+}
+.masodik {
+  background: #F2F062;
+  padding:20px;
+  margin:0%
+}
+.harmadik {
+  background: #A9E6E6;
+  padding:20px;
+  margin:0%  
+}
+.negyedik { 
+  background: #7692E4;
+  padding:20px;
+  margin:0%
+}
+.whole{
+  text-align: center;
+  font-weight: bold;
+  font-family: arial;
+  font-size: 24px;
+ }

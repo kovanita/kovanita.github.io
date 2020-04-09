@@ -1,0 +1,19 @@
+a {
+  display: block;
+  margin: 10px;
+  font-family: Sen;
+  font-size: 20px;
+  color: green;
+}
+a:hover {
+  color:lime;
+}
+a:visited {
+  color: grey;
+}
+a:active {
+  color: green;
+}
+main:hover {
+  background: red
+}
