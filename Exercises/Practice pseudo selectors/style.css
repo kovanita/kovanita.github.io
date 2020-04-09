@@ -1,0 +1,19 @@
+.container{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    border-left: black 2px solid;
+    border-right: black 2px solid;
+}
+.container > div{
+    border: black 1px solid;
+    padding: 20px;
+}
+div :hover{
+    background-color: brown;
+}
+#fent{
+    border-top: none;
+}
+#lent{
+    border-bottom: none;
+}
