@@ -1,6 +1,9 @@
-let add = (a, b) => {
-  return a + b; 
-};
 
-console.log(add(1, 2))
+let printNumbersTill = (a) => {
+  for (let i = 0; i < a; i++) {
+    console.log(i)
+  }
+}
 
+
+printNumbersTill(20);
