@@ -1,6 +1,4 @@
-let a = 7;
-if (a < 5) {
-  console.log(a / 2);
-} else {
-  console.log(a / 7);
-}
+let numbers = 10;
+
+for (let i = 0; i < numbers; i++) 
+  if (i<=numbers)  { console.log( i+1)}
