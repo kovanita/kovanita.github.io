@@ -18,13 +18,12 @@ console.log(greetingTo('Mark'))
 
 
 
+let printValues = [0, 3, 6, 7, 9];
 
-let printValues = (arr) => {
-  for(let i=0; i<arr.length; i++) {
-    console.log(arr[i])
-  }
-}
-printValues([0, 3, 6, 7, 9])
+printValues.forEach((arr) => {
+  console.log(arr);
+});
+
 
 
 
