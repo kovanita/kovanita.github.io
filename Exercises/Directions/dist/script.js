@@ -1,4 +1,6 @@
-let numbers = 20;
+let add = (a, b) => {
+  return a + b; 
+};
 
-for (let i = 0; i <= numbers; i++) 
-  if (i%2===0)  {console.log(i)}
+console.log(add(1, 2))
+
