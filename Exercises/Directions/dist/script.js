@@ -7,3 +7,10 @@ let printNumbersTill = (a) => {
 
 
 printNumbersTill(20);
+
+
+let greetingTo = (name) => {
+  return ('hello' + name);
+}
+greetingTo('Mark');
+console.log(greetingTo('Mark'))
