@@ -1,0 +1,13 @@
+body{
+    background-color: lightslategray;
+}
+main{
+    background-color: lightsteelblue;
+    width: 1000px;
+    height: 400px; 
+}
+#photo{
+    width: 800px;
+    height: 400px;
+}
+   
