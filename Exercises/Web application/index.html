@@ -7,12 +7,30 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <main> <!--ez lesz a képek világos szürkés-fehéres háttere, ahol a nyilak vannak-->
-        <div id="photo"> <img src=".\image gallery\fullhd-hatterkep-hosszu-ut-16703090.jpg" alt=""><!--itt lesznek a nagy kiválasztott képek-->
-            <div></div><!--itt a képek címei és rövid leírásai lesznek, áttetsző háttérben-->
+
+
+<main id="photoViewer">
+    <div class="bal"> 
+        <img src="http://stayathome-syllabus.greenfox.academy/week03/assets/arrow.svg" alt="">
+    </div>
+
+    <div class="container">
+        <img src=".\image gallery\fullhd-hatterkep-hosszu-ut-16703090.jpg" alt="" >
+        <div class="kozepbox"> <!--itt a képek címei és rövid leírásai lesznek, áttetsző háttérben-->
+            <h1 class="alul">Title</h1>
+            <p class="alul">description of the image</p> 
         </div>
-    </main>
-<!-- vízszintes list képekből-->
+    </div> <!--itt lesznek a nagy kiválasztott képek-->
+    
+    <div class="jobb">
+        <img src="http://stayathome-syllabus.greenfox.academy/week03/assets/arrow.svg" alt="">
+    </div>
+</main> 
+
+<div class="lent">
+    <footer></footer> <!--itt lesz a képek listája-->
+</div>
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="script.js"></script>
